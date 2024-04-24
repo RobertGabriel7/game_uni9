@@ -2,7 +2,7 @@ function carregar() {
     // Carregando informações da Class Date()
     var horario = new Date()
     //Obtendo a hora
-    var hora = 19
+    var hora = horario.getHours()
     //Obtendo os minutos
     var minutos = horario.getMinutes()
     // Selecionando um elemento pelo id para modificar o seu conteudo
