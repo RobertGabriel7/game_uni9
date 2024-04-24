@@ -38,7 +38,8 @@ section{
     border: 2px solid white;
 }
 footer{
-    text-align: center;
+    margin: auto;
+    text-align: end;
     font-style: italic;
     text-shadow: 4px 4px 2px black;   
     width: 500px;
